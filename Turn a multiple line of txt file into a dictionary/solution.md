@@ -1,0 +1,1 @@
+The solution is avaiable in a public [gist](https://gist.github.com/FLAK-ZOSO/74054e070899035bb2187f1c10ca2008)
