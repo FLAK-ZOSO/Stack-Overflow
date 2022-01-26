@@ -1,0 +1,1 @@
+[How to conditionally print the input by user in Python?](https://stackoverflow.com/questions/70862519/how-to-conditionally-print-the-input-by-user-in-python/70862594) was answered in this folder.
