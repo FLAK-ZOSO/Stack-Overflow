@@ -1,0 +1,1 @@
+[Python _ Validate if input number is prime](https://stackoverflow.com/questions/70956760/python-validate-if-input-number-is-prime/70956828) was answered in this folder.
