@@ -1,0 +1,1 @@
+[Delete underscores between japanese characters from a string in python](https://stackoverflow.com/questions/70957929/delete-underscores-between-japanese-characters-from-a-string-in-python) was answered in this folder.
