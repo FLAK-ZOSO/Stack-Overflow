@@ -1,0 +1,1 @@
+[Get every email of random pages](https://stackoverflow.com/questions/71006011/get-every-email-of-random-pages) was answered in this folder.
